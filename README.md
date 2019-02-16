@@ -1,10 +1,10 @@
-# Index
-## Pre-processing
-## Recipes for CNN
-    - Network Structure
-        - Activity 1
-    - Pooling
-        - Activity 2
-## Define Training Procedure    
-## Start Training and Observe Training Process
-## Testing
+### Index
+1. Pre-processing
+2. Recipes for ConvNet
+    1. Network Structure
+        1. Activity 1
+    2. Pooling
+        1. Activity 2
+3. Define Training Procedure
+4. Start Training and Observe Training Process
+5. Testing
