@@ -8,3 +8,8 @@
 3. Define Training Procedure
 4. Start Training and Observe Training Process
 5. Testing
+
+### What is Keras?
+Keras = tensorFlow + Theano
+
+### How to install Keras? First of all, you need python. 
